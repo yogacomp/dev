@@ -27,6 +27,6 @@ int main(int argc, char** argv) {
 
             cout<<jam<<" jam "<<menit<<" menit "<<detik<<" detik"<<endl;
 
-            
+            return 0;
 
 }
